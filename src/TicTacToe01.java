@@ -11,7 +11,6 @@ public class TicTacToe01 {
     static ArrayList<Integer> cpuPositions = new ArrayList<Integer>();
 
     public static final Scanner scan = new Scanner(System.in);
-//hello nigger
     public static void main (String[] args){
 
         char[][] gameBoard = {{' ', '|', ' ', '|', ' '},
